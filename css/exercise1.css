@@ -1,0 +1,27 @@
+h1{
+color: #FF6B6B;
+border-bottom: 2px;
+text-align: center;
+border-bottom-style: dashed;
+border-bottom-color: white;
+}
+body{
+	background-color: #4c4053
+}
+ol{
+	border: 3px;
+	border-color: #4ecdc4;
+	color:white;
+	border-style:solid;
+}
+.colored {
+	color:#ED8F1F;
+}
+img{
+	border: 3px;
+	border-color: white;
+	border-style: solid;
+}
+h2{
+	color: white;
+}
