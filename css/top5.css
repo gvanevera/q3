@@ -1,0 +1,21 @@
+h1{
+	color: #ee7ee1;
+}
+.title{
+	border:solid;
+}
+#a{
+	border-color: #07FF0E; 
+}
+#b{
+	border-color: #FF0707;
+}
+#c{
+	border-color: #0D07FF;
+}
+img{
+	border: dashed 2px;
+}
+#imgresize{
+	width: 10%;
+}
