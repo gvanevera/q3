@@ -1,0 +1,21 @@
+body{
+	background-color: lightyellow;
+}
+p{
+	font-family: "Helvetica", sans-serif;
+	color: darkred;
+	margin-top: 100px;
+}
+h1{
+	text-align: center;
+	color: yellowgreen;
+	background-color: brown;
+	font-family: "Impact", sans-serif
+}
+img{
+	border: 2px solid blue;
+}
+a {
+	text-decoration: bold;
+	color: black;
+}
