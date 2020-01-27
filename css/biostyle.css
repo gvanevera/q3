@@ -1,25 +1,51 @@
+.wrapper {
+	max-width: 80%;
+	margin:	0 auto;
+	background-color: #39EA74;
+	padding: 30px;
+	border: 3px black solid;
+
+}
+section{
+	padding: 15px;
+	margin-bottom: 5px;
+	border: 1px solid black;
+
+}
 h1{
 	color: #ee2ee1;
 	text-align: center;
-}
-h2{
-	color:#C2C2C2;
-}
-h3{
-	color: #EEEEEE;
-}
-h4{
-	color: #aaaaaa;
+	font-family: sans-serif;
 }
 
 body{
-	background-color: #39EA74;
+	background-color: #7516a8;
 }
 img{
 	width: 20%;
 	border: 10px solid #FFFFFF;
 }
-.birthp{
-	color: #395248;
-}
 
+footer{
+	text-align: center;
+}
+#section1{
+	background-color: #34e5eb;
+	color: black;
+}
+#section2{
+	background-color: #b31237;
+	color: white;
+}
+#section3{
+	background-color: #ee2ee1;
+	color: #32a864;
+
+}
+#section4{
+	background-color: #1a12b3;
+	color: #ebe534;
+}
+.center{
+	text-align: center;
+}
