@@ -1,0 +1,60 @@
+.wrapper{
+	margin: 0 auto;
+}
+
+.title{
+
+}
+.top-paragraph{
+
+}
+.mins{
+	font-weight: bolder;
+
+}
+.center{
+	text-align: center;
+
+}
+.sec1{
+	outline: 1px grey solid;
+	margin: 50px;
+	padding: 30px;
+}
+.sec2{
+	
+}
+.img1{
+
+	width: 40%;
+
+}
+.ingredients{
+	padding: 20px;
+}
+.h2a{
+	padding: 10px;
+}
+li{
+	list-style: none;
+	padding-top: 10px;
+}
+.flex{
+	display:flex;
+	flex-direction: row;
+}
+.images{
+	max-width: 50%
+
+}
+.instruct{
+	display: flex;
+	flex-direction: row reverse;
+	justify-content: space-between;
+}
+.green{
+	background-color: rgb(0 255 0);
+}
+footer{
+	text-align: center;
+}
