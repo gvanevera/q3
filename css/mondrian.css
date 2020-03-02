@@ -1,0 +1,98 @@
+body{
+	background-color: #f6f6f6;
+}
+.canvas{
+background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+#toprow {
+	height: 290px;
+	width: 400px;
+}
+#bigbox{
+	width: 290px;
+	height: 290px;
+}
+.red{
+	background-color: #520000;
+}
+.right{
+	float: right;
+}
+#divider1{
+	height: 290px;
+	width: 10px;
+}
+.black{
+	background-color: black;
+}
+.mediumbox{
+	width: 100px;
+	height: 140px;
+}
+#divider2 {
+	height: 10px;
+	width: 100px;
+}
+#middlerow{
+	height: 10px;
+	width: 400px;
+}
+
+#divider3{
+	width: 400px;
+	height: 10px;
+}
+.yellow{
+	background-color: rgb(255 255 0);
+}
+.green{
+	background-color: rgb(0 255 0);
+}
+#bottomrow{
+	height:100px;
+	width: 380px;
+}
+#smallbox{
+	height: 100px;
+	width: 100px;
+}
+.left{
+	float: left;
+}
+#divider4{
+	height: 100px;
+	width: 10px;
+}
+#longbox{
+	height: 100px;
+	width: 	260px;
+}
+#divider5{
+	height: 100px;
+	width: 10px;
+}
+#smallrow{
+	height: 100px;
+	width: 20px;
+}
+.blue{
+	background-color: rgb(0 0 255);
+}
+#minibox1{
+	height: 45px;
+	width: 20px;
+}
+#column3{
+	height: 10px;
+	width: 20px;
+}
+#minibox2{
+	height: 45px;
+	width: 20px;
+}
